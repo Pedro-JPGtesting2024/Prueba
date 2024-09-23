@@ -1,0 +1,17 @@
+body
+{
+background-color: cadetblue;
+background-image: url(Messi\ enano\ 2022.jpg);
+background-repeat: no-repeat;
+background-position:right;
+background-size: 0cqb;
+}
+.caja1
+{
+ font-family: Arial;
+ font-size: 60px;
+ color: brown;
+}
+img{
+opacity: 0.5;
+}       
