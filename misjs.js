@@ -1,7 +1,7 @@
 $(document).ready(function()
 
 { 
-    insertar_registro()
+    insertar_registro();
 
 })
 
